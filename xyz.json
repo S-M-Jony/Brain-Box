@@ -1,0 +1,702 @@
+{
+    "videos":{
+        "1": {
+            "youtubeID": "lb7wT1gVU7Y",
+            "title": "Introduction to JavaScript",
+            "noq": 5
+          },
+          "2": {
+            "youtubeID": "5Xy-t8k_M4A",
+            "title": "Basic C Programing",
+            "noq": 5
+          },
+          "3": {
+            "youtubeID": "WC-g0JtEIwM",
+            "title": "Algorithom",
+            "noq": 5
+          },
+          "4": {
+            "youtubeID": "CHnTTzD1pAQ",
+            "title": "Data Structure",
+            "noq": 5
+          },
+          "5": {
+            "youtubeID": "PHy8h0BixKA",
+            "title": "Object Oriented Programing",
+            "noq": 5
+          },
+          "6": {
+            "youtubeID": "2C5834qx0sA",
+            "title": "Database Management System",
+            "noq": 5
+          },
+          "7": {
+            "youtubeID": "qImH1bFubW4",
+            "title": "Number Syatem",
+            "noq": 5
+          }
+    },
+
+
+    "quiz": {
+        "lb7wT1gVU7Y": {
+            "questions": [
+      
+      
+              {
+                "title": "How to declare JavaScript variables?",
+                "options": [
+                  {
+                    "title": "with var"
+                  },
+                  {
+                    "title": "with let"
+                  },
+                  {
+                    "title": "with const"
+                  },
+                  {
+                    "title": "with variable"
+                  },
+                  {
+                    "title": "with declare"
+                  },
+                  {
+                    "title": "with new"
+                  },
+                  {
+                    "title": "with number"
+                  },
+                  {
+                    "title": "with string"
+                  },
+                  {
+                    "title": "with boolean"
+                  },
+                  {
+                    "title": "with nothing"
+                  }
+                ]
+              },
+              
+                 {
+                "title": "Is JavaScript case sensitive language?",
+                "options": [
+                  {
+                    "title": "Yes"
+                  },
+                  {
+                    "title": "No"
+                  }
+                  
+                ]
+              },
+      
+              {
+                "title": "Is JavaScript Programing  language?",
+                "options": [
+                  {
+                    "title": "Yes"
+                  },
+                  {
+                    "title": "No"
+                  }
+                  
+                ]
+              },
+      
+      
+              {
+                "title": "When was JavaScript invented?",
+                "options": [
+                  {
+                    "title": "September 1998"
+                  },
+                  {
+                    "title": "October 1999"
+                  },
+                  {
+                    "title": "September 1995"
+                  },
+                  {
+                    "title": "September 1993"
+                  },
+                  {
+                    "title": "August 1990"
+                  },
+                  {
+                    "title": "January 1995"
+                  },
+                  {
+                    "title": "with number"
+                  },
+                  {
+                    "title": "December 1995"
+                  },
+                  {
+                    "title": "March 1996"
+                  },
+                  {
+                    "title": "January 1970"
+                  }
+                ]
+              },
+      
+      
+              {
+                "title": "Who or which company created JavaScript?",
+                "options": [
+                  {
+                    "title": "Jordan Walke"
+                  },
+                  {
+                    "title": "Netscape"
+                  },
+                  {
+                    "title": "Jack Ma"
+                  },
+                  {
+                    "title": "Nayok Razzaq"
+                  },
+                  {
+                    "title": "Takla Rubel"
+                  },
+                  {
+                    "title": "Tarzan"
+                  },
+                  {
+                    "title": "Brendan Eich"
+                  },
+                  {
+                    "title": "Mark Zuckerburg"
+                  },
+                  {
+                    "title": "Bill Gates"
+                  },
+                  {
+                    "title": "Steve Jobs"
+                  }
+                ]
+              },
+      
+              {
+                "title": "What is the latest version of ECMAScript",
+                "options": [
+                  {
+                    "title": "ES2020"
+                  },
+                  {
+                    "title": "ES2021"
+                  },
+                  {
+                    "title": "ES6"
+                  },
+                  {
+                    "title": "ES7"
+                  },
+                  {
+                    "title": "ES8"
+                  },
+                  {
+                    "title": "ES2022"
+                  },
+                  {
+                    "title": "ES21"
+                  },
+                  {
+                    "title": "ES3"
+                  },
+                  {
+                    "title": "ES9"
+                  },
+                  {
+                    "title": "ES2020"
+                  }
+                ]
+              }
+            ]
+          },
+
+          "5Xy-t8k_M4A": {
+            "questions": [
+              {
+                "title": "What is a stack?", 
+                "options": [
+                  {
+                    "title": "with var"
+                  },
+                  {
+                    "title": "with let"
+                  },
+                  {
+                    "title": "with const"
+                  },
+                  {
+                    "title": "one form of a data structure"
+                  },
+                  {
+                    "title": "with declare"
+                  },
+                  {
+                    "title": "with new"
+                  },
+                  {
+                    "title": "with number"
+                  },
+                  {
+                    "title": "with string"
+                  },
+                  {
+                    "title": "with boolean"
+                  },
+                  {
+                    "title": "with nothing"
+                  }
+                ]
+              },
+              {
+                "title": "What is malloc()?",
+                "options": [
+                  {
+                    "title": "Netscape"
+                  },
+                  {
+                    "title": "variable"
+                  },
+                  {
+                    "title": "September 1995"
+                  },
+                  {
+                    "title": "September 1993"
+                  },
+                  {
+                    "title": "Dynaminc allocating function"
+                  },
+                  {
+                    "title": "January 1995"
+                  },
+                  {
+                    "title": "with number"
+                  },
+                  {
+                    "title": "December 1995"
+                  },
+                  {
+                    "title": "March 1996"
+                  },
+                  {
+                    "title": "January 1970"
+                  }
+                ]
+              },
+              {
+                "title": "What is a C Token?", 
+                "options": [
+                  {
+                    "title": "Jordan Walke"
+                  },
+                  {
+                    "title": "Netscape"
+                  },
+                  {
+                    "title": "Keywords"
+                  },
+                  {
+                    "title": "Nayok Razzaq"
+                  },
+                  {
+                    "title": "Takla Rubel"
+                  },
+                  {
+                    "title": "Tarzan"
+                  },
+                  {
+                    "title": "Brendan Eich"
+                  },
+                  {
+                    "title": "Mark Zuckerburg"
+                  },
+                  {
+                    "title": "Bill Gates"
+                  },
+                  {
+                    "title": "Steve Jobs"
+                  }
+                ]
+              },
+              {
+                "title": "What is an array?",  
+                "options": [
+                  {
+                    "title": "ES2020"
+                  },
+                  {
+                    "title": "ES2021"
+                  },
+                  {
+                    "title": "ES6"
+                  },
+                  {
+                    "title": "ES7"
+                  },
+                  {
+                    "title": "Data Structure"
+                  },
+                  {
+                    "title": "ES2022"
+                  },
+                  {
+                    "title": "ES21"
+                  },
+                  {
+                    "title": "ES3"
+                  },
+                  {
+                    "title": "ES9"
+                  },
+                  {
+                    "title": "ES2020"
+                  }
+                ]
+              }
+            ]
+          },
+          
+
+
+
+
+
+    "answers" :{
+        "lb7wT1gVU7Y": {
+            "questions": [
+              {
+                "title": "How to declare JavaScript variables?",
+                "options": [
+                  {
+                    "title": "with var",
+                    "correct": true
+                  },
+                  {
+                    "title": "with let",
+                    "correct": true
+                  },
+                  {
+                    "title": "with const",
+                    "correct": true
+                  },
+                  {
+                    "title": "with variable"
+                  },
+                  {
+                    "title": "with declare"
+                  },
+                  {
+                    "title": "with new"
+                  },
+                  {
+                    "title": "with number"
+                  },
+                  {
+                    "title": "with string"
+                  },
+                  {
+                    "title": "with boolean"
+                  },
+                  {
+                    "title": "with nothing"
+                  }
+                ]
+              },
+              {
+                "title": "Is JavaScript case sensitive language?",
+                "options": [
+                  {
+                    "title": "Yes",
+                    "correct": true
+                  },
+                  {
+                    "title": "No"
+                  }
+                  
+                ]
+              },
+      
+              {
+                "title": "Is JavaScript Programing  language?",
+                "options": [
+                  {
+                    "title": "Yes",
+                    "correct": true
+                  },
+                  {
+                    "title": "No"
+                  }
+                  
+                ]
+              },
+              {
+                "title": "When was JavaScript invented?",
+                "options": [
+                  {
+                    "title": "September 1998"
+                  },
+                  {
+                    "title": "October 1999"
+                  },
+                  {
+                    "title": "September 1995",
+                    "correct": true
+                  },
+                  {
+                    "title": "September 1993"
+                  },
+                  {
+                    "title": "August 1990"
+                  },
+                  {
+                    "title": "January 1995"
+                  },
+                  {
+                    "title": "with number"
+                  },
+                  {
+                    "title": "December 1995"
+                  },
+                  {
+                    "title": "March 1996"
+                  },
+                  {
+                    "title": "January 1970"
+                  }
+                ]
+              },
+              {
+                "title": "Who or which company created JavaScript?",
+                "options": [
+                  {
+                    "title": "Jordan Walke"
+                  },
+                  {
+                    "title": "Netscape",
+                    "correct": true
+                  },
+                  {
+                    "title": "Jack Ma"
+                  },
+                  {
+                    "title": "Nayok Razzaq"
+                  },
+                  {
+                    "title": "Takla Rubel"
+                  },
+                  {
+                    "title": "Tarzan"
+                  },
+                  {
+                    "title": "Brendan Eich",
+                    "correct": true
+                  },
+                  {
+                    "title": "Mark Zuckerburg"
+                  },
+                  {
+                    "title": "Bill Gates"
+                  },
+                  {
+                    "title": "Steve Jobs"
+                  }
+                ]
+              },
+              {
+                "title": "What is the latest version of ECMAScript",
+                "options": [
+                  {
+                    "title": "ES2020"
+                  },
+                  {
+                    "title": "ES2021",
+                    "correct": true
+                  },
+                  {
+                    "title": "ES6"
+                  },
+                  {
+                    "title": "ES7"
+                  },
+                  {
+                    "title": "ES8"
+                  },
+                  {
+                    "title": "ES2022"
+                  },
+                  {
+                    "title": "ES21"
+                  },
+                  {
+                    "title": "ES3"
+                  },
+                  {
+                    "title": "ES9"
+                  },
+                  {
+                    "title": "ES2020"
+                  }
+                ]
+              }
+              
+            ]
+          },
+
+          "5Xy-t8k_M4A": {
+            "questions": [
+              {
+                "title": "What is a stack?", 
+                "options": [
+                  {
+                    "title": "with var"
+                  },
+                  {
+                    "title": "with let"
+                  },
+                  {
+                    "title": "with const"
+                  },
+                  {
+                    "title": "one form of a data structure",
+                    "correct": true
+                  },
+                  {
+                    "title": "with declare"
+                  },
+                  {
+                    "title": "with new"
+                  },
+                  {
+                    "title": "with number"
+                  },
+                  {
+                    "title": "with string"
+                  },
+                  {
+                    "title": "with boolean"
+                  },
+                  {
+                    "title": "with nothing"
+                  }
+                ]
+              },
+              {
+                "title": "What is malloc()?",
+                "options": [
+                  {
+                    "title": "Netscape"
+                  },
+                  {
+                    "title": "variable"
+                  },
+                  {
+                    "title": "September 1995"
+                  },
+                  {
+                    "title": "September 1993"
+                  },
+                  {
+                    "title": "Dynaminc allocating function",
+                    "correct": true
+                  },
+                  {
+                    "title": "January 1995"
+                  },
+                  {
+                    "title": "with number"
+                  },
+                  {
+                    "title": "December 1995"
+                  },
+                  {
+                    "title": "March 1996"
+                  },
+                  {
+                    "title": "January 1970"
+                  }
+                ]
+              },
+              {
+                "title": "What is a C Token?", 
+                "options": [
+                  {
+                    "title": "Jordan Walke"
+                  },
+                  {
+                    "title": "Netscape"
+                  },
+                  {
+                    "title": "Keywords",
+                    "correct": true
+                  },
+                  {
+                    "title": "Nayok Razzaq"
+                  },
+                  {
+                    "title": "Takla Rubel"
+                  },
+                  {
+                    "title": "Tarzan"
+                  },
+                  {
+                    "title": "Brendan Eich"
+                  },
+                  {
+                    "title": "Mark Zuckerburg"
+                  },
+                  {
+                    "title": "Bill Gates"
+                  },
+                  {
+                    "title": "Steve Jobs"
+                  }
+                ]
+              },
+              {
+                "title": "What is an array?",  
+                "options": [
+                  {
+                    "title": "ES2020"
+                  },
+                  {
+                    "title": "ES2021"
+                  },
+                  {
+                    "title": "ES6"
+                  },
+                  {
+                    "title": "ES7"
+                  },
+                  {
+                    "title": "Data Structure",
+                    "correct": true
+                  },
+                  {
+                    "title": "ES2022"
+                  },
+                  {
+                    "title": "ES21"
+                  },
+                  {
+                    "title": "ES3"
+                  },
+                  {
+                    "title": "ES9"
+                  },
+                  {
+                    "title": "ES2020"
+                  }
+                ]
+              }
+            ]
+          },
+           
+
+    }
+}
